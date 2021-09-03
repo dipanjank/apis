@@ -1,4 +1,4 @@
-module dipanjank/apis
+module github.com/dipanjank/apis
 
 go 1.13
 
