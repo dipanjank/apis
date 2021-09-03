@@ -1,4 +1,4 @@
-module volcano.sh/apis
+module dipanjank/apis
 
 go 1.13
 
