@@ -35,6 +35,9 @@ const QueueNameAnnotationKey = GroupName + "/queue-name"
 // PodPreemptable is the key of preemptable
 const PodPreemptable = "volcano.sh/preemptable"
 
+// PodPreemptable is used by HDRF to turn off reclaim action per job
+const PodReclaimable = "volcano.sh/reclaimable"
+
 //RevocableZone is the key of revocable-zone
 const RevocableZone = "volcano.sh/revocable-zone"
 
